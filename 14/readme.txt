@@ -1,0 +1,1 @@
+mealy machine과 moore machine 실습(sequence detector)
